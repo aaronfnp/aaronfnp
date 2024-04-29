@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs&theme=light)](https://skillicons.dev)
 
 <!--
 **aaronfnp/aaronfnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
