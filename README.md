@@ -10,10 +10,7 @@ Contact: [aaronfnp@gmail.com](aaronfnp@gmail.com)
 Portfolio (Currently building new website for Software Dev): [ANPV](https://anpv.webnode.page/)
 
 Skills:
-<p align="center">
-<!-- [![Web Dev Skills] -->
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs,mongodb,mysql,postgres,aws,gcp,heroku,github,replit,discord,vscode,npm,figma,blender,unity,ae,ai,ps,pr&theme=dark&perline=6" />
-</p>
 
 <!--
 **aaronfnp/aaronfnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
