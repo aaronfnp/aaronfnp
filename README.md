@@ -2,7 +2,7 @@
 Skills:
 <p align="center">
 <!-- [![Web Dev Skills] -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs,mongodb,mysql,postgres,aws,gcp,heroku,github,replit,discord,vscode,npm,figma,blender,unity,ae,ai,ps,pr&theme=dark&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs,mongodb,mysql,postgres,aws,gcp,heroku,github,replit,discord,vscode,npm,figma,blender,unity,ae,ai,ps,pr&theme=dark&perline=6" />
 </p>
 
 <!--
