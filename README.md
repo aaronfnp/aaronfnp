@@ -2,23 +2,7 @@
 Skills:
 <p align="center">
 <!-- [![Web Dev Skills] -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs&theme=dark&perline=6" />
-  <br />
-<!-- [![Database Skills] -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark&perline=6" />
-  <br />
-<!-- [![Cloud Services Skills]( -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,heroku&theme=dark&perline=6" />
-  <br />
-<!-- [![Version Control / Collaboration Skills] -->
-  <img src="https://skillicons.dev/icons?i=github,replit,discord&theme=dark&perline=6" />
-  <br />
-<!-- [![IDE / Tools Skills] -->
-  <img src="https://skillicons.dev/icons?i=vscode,npm,figma&theme=dark&perline=6" />
-  <br />
-<!-- [![Graphic / Game Dev Skills] -->
-  <img src="https://skillicons.dev/icons?i=blender,unity,ae,ai,ps,pr&theme=dark&perline=6" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs,mongodb,mysql,postgres,aws,gcp,heroku,github,replit,discord,vscode,npm,figma,blender,unity,ae,ai,ps,pr&theme=dark&perline=5" />
 </p>
 
 <!--
