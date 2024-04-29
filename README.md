@@ -1,10 +1,12 @@
-### Hello! I'm Aaron.
+## Hello! I'm Aaron.
 
-## I am a full-stack developer who specializes in React and other JS frameworks.
+### I am a full-stack developer who specializes in React and other JS frameworks.
 
 I have recently got my certification from General Assembly for Software Engineering. I proficient in all of the technologies listed below, but have decided to focus on building applications using React. I have a background in Video Effects Editing and Esports, so I have a strong interest in plugins and game development as well. 
+<br />
 
 Contact: [aaronfnp@gmail.com](aaronfnp@gmail.com)
+<br />
 Portfolio (Currently building new website for Software Dev): [ANPV](https://anpv.webnode.page/)
 
 Skills:
