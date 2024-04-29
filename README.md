@@ -1,7 +1,8 @@
 ### Hi there 👋
 Skills:
 <p align="center">
-[![Web Dev Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs&theme=dark)](https://skillicons.dev)
+[![Web Dev Skills]
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs&theme=dark" />(https://skillicons.dev)
 [![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
 [![Cloud Services Skills](https://skillicons.dev/icons?i=aws,gcp,heroku&theme=dark)](https://skillicons.dev)
 [![Version Control / Collaboration Skills](https://skillicons.dev/icons?i=github,replit,discord&theme=dark)](https://skillicons.dev)
