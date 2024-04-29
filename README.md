@@ -1,17 +1,17 @@
 ### Hi there 👋
 Skills:
 <p align="center">
-[![Web Dev Skills]
+<!-- [![Web Dev Skills] -->
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs&theme=dark" />
-[![Database Skills]
+<!-- [![Database Skills] -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
-[![Cloud Services Skills](
+<!-- [![Cloud Services Skills]( -->
   <img src="https://skillicons.dev/icons?i=aws,gcp,heroku&theme=dark" />
-[![Version Control / Collaboration Skills]
+<!-- [![Version Control / Collaboration Skills] -->
   <img src="https://skillicons.dev/icons?i=github,replit,discord&theme=dark" />
-[![IDE / Tools Skills]
+<!-- [![IDE / Tools Skills] -->
   <img src="https://skillicons.dev/icons?i=vscode,npm,figma&theme=dark" />
-[![Graphic / Game Dev Skills]
+<!-- [![Graphic / Game Dev Skills] -->
   <img src="https://skillicons.dev/icons?i=blender,unity,ae,ai,ps,pr&theme=dark />
 </p>
 
