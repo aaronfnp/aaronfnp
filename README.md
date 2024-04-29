@@ -1,5 +1,10 @@
 ### Hi there 👋
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,cs&theme=light)](https://skillicons.dev)
+[![Web Dev Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,django,py,cs&theme=dark)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![Cloud Services Skills](https://skillicons.dev/icons?i=aws,gcp,heroku&theme=dark)](https://skillicons.dev)
+[![Version Control / Collaboration Skills](https://skillicons.dev/icons?i=github,replit,discord&theme=dark)](https://skillicons.dev)
+[![IDE / Tools Skills](https://skillicons.dev/icons?i=vscode,npm,figma&theme=dark)](https://skillicons.dev)
+[![Graphic / Game Dev Skills](https://skillicons.dev/icons?i=blender,unity,ae,ai,ps,pr&theme=dark)](https://skillicons.dev)
 
 <!--
 **aaronfnp/aaronfnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
