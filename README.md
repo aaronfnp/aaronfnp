@@ -12,8 +12,8 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 - **Databases**: Firebase, MongoDB, PostgreSQL  
 
 ## Recent Projects  
-- **[Talent Trees](#)**: A customizable skill tree app built with React and Firebase.  
-- **[Kernel Colonel](#)**: A MERN stack clicker game with upgrade mechanics.  
+- **[Talent Trees](https://github.com/chriscain/talent-trees)**: A customizable skill tree app built with React and Firebase.  
+- **[Kernel Colonel](https://github.com/aaronfnp/kernel_colonel)**: A MERN stack clicker game with upgrade mechanics.  
 - **[Get Back To Work](#)**: A Unity 3D spot-the-difference game. 
 
 Contact: [aaronfnp@gmail.com](aaronfnp@gmail.com)
