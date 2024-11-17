@@ -8,8 +8,8 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 
 ## Skills  
 - **Languages**: JavaScript, C#, Python, HTML, CSS  
-- **Libraries and Frameworks**: React, Django, Express, Bootstrap, Tailwind CSS  
-- **Databases**: Firebase, MongoDB, PostgreSQL  
+- **Libraries and Frameworks**: React, Vite, Django, Express, Bootstrap, Tailwind CSS  
+- **Databases & Tools**: Firebase, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, Heroku
 
 ## Recent Projects  
 - **[Talent Trees](https://github.com/chriscain/talent-trees)**: A customizable skill tree app built with React and Firebase.  
@@ -18,7 +18,7 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 
 <br />
 
-## Skills  
+<!-- ## Skills  
 
 ### Languages  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
@@ -43,6 +43,7 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)  
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)  
+-->
 
 ### Additional Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
