@@ -18,7 +18,6 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 
 Contact: [aaronfnp@gmail.com](aaronfnp@gmail.com)
 <br />
-Portfolio (Currently building new website for Software Dev): [ANPV](https://anpv.webnode.page/)
 
 ## Skills  
 
