@@ -16,7 +16,6 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 - **[Kernel Colonel](https://github.com/aaronfnp/kernel_colonel)**: A MERN stack clicker game with upgrade mechanics.  
 - **[Get Back To Work](#)**: A Unity 3D spot-the-difference game. 
 
-Contact: [aaronfnp@gmail.com](aaronfnp@gmail.com)
 <br />
 
 ## Skills  
