@@ -16,7 +16,17 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 - **[Kernel Colonel](https://github.com/aaronfnp/kernel_colonel)**: A MERN stack clicker game with upgrade mechanics.  
 - **[Get Back To Work](#)**: A Unity 3D spot-the-difference game. 
 
-<br />
+
+
+## Additional Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
+![After Effects](https://img.shields.io/badge/After_Effects-CF96FD?style=flat&logo=adobe-after-effects&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)  
 
 <!-- ## Skills  
 
@@ -44,17 +54,6 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)  
 -->
-
-### Additional Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)  
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)  
-![After Effects](https://img.shields.io/badge/After_Effects-CF96FD?style=flat&logo=adobe-after-effects&logoColor=white)  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)  
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)  
-
 
 <!--
 **aaronfnp/aaronfnp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
