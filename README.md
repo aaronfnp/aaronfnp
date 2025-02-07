@@ -8,7 +8,7 @@ Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase 
 
 ## Skills  
 - **Languages**: JavaScript, C#, Python, HTML, CSS  
-- **Libraries and Frameworks**: React, Vite, Django, Express, Bootstrap, Tailwind CSS  
+- **Libraries and Frameworks**: React, Vite, Vue, Django, Express, Bootstrap, Tailwind CSS  
 - **Databases & Tools**: Firebase, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, Heroku
 
 ## Recent Projects  
