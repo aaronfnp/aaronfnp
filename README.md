@@ -1,5 +1,5 @@
 # Hi, I'm Aaron 👋
-Frontend Developer | VFX Specialist Turned Software Engineer | React & Firebase Enthusiast  
+Frontend & Software Developer | VFX Specialist Turned Software Engineer | React & Firebase Enthusiast  
 
 ## About Me  
 🌟 Transitioned from a successful VFX career to full-stack development.  
