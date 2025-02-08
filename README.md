@@ -7,9 +7,9 @@ Frontend & Software Developer | VFX Specialist Turned Software Engineer | React 
 🚀 Passionate about crafting dynamic, user-friendly web applications.  
 
 ## Skills  
-- **Languages**: JavaScript, C#, Python, HTML, CSS  
+- **Languages**: C#, Python, JavaScript, HTML, CSS, SQL, Mongoose, JSON
 - **Libraries and Frameworks**: React, Vite, Vue, Django, Express, Bootstrap, Tailwind CSS  
-- **Databases & Tools**: Firebase, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, Heroku
+- **Databases & Tools**: AWS, Firebase, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, Heroku
 
 ## Recent Projects  
 - **[Talent Trees](https://github.com/chriscain/talent-trees)**: A customizable skill tree app built with React and Firebase.  
