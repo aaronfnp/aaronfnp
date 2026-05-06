@@ -11,10 +11,10 @@ Frontend & Software Developer | VFX Specialist Turned Software Engineer | React 
 - **Libraries and Frameworks**: React, Vite, Vue, Django, Express, Bootstrap, Tailwind CSS  
 - **Databases & Tools**: AWS, Firebase, MongoDB, PostgreSQL, MySQL, AWS, Google Cloud, Heroku
 
-## Recent Projects  
-- **[Talent Trees](https://github.com/chriscain/talent-trees)**: A customizable skill tree app built with React and Firebase.  
-- **[Kernel Colonel](https://github.com/aaronfnp/kernel_colonel)**: A MERN stack clicker game with upgrade mechanics.  
-- **[Get Back To Work](#)**: A Unity 3D spot-the-difference game. 
+## Current Projects  
+- **[Sealed Away](#)**: A Unity 3D horror game, still in development.
+- **[GameLocAI](#)**: An AI-driven game localization SaaS website.  
+- **[Cozy Finds](#)**: A Unity 3D spot-the-difference game, launching on Steam soon. 
 
 
 
