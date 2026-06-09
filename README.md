@@ -11,7 +11,7 @@ Production SaaS that helps indie game devs translate their games without losing 
 - **Interesting bits:** Multi-tier model routing (Haiku / Sonnet / Opus) tuned per task type, prompt caching for margin optimization, structured CSV/JSON/PO import-export pipeline that preserves source files exactly
 - **Sign Up For Beta @** [Gameloc.ai](https://gameloc.ai)
 
-### 🎮 [Cozy Finds](#) — Unity 3D Spot-the-Difference Game
+### 🎮 [Cozy Finds](https://store.steampowered.com/app/4685830/Cozy_Finds/) — Unity 3D Spot-the-Difference Game
 Low-poly, isometric, no-timer cozy game launching on Steam soon! 
 
 ### 👻 [Sealed Away](#) — Unity HDRP First-Person Horror
